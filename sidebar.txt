@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mxo:home|Door43 (mxo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mxo|d43-mxo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mxo/archive/master.zip|d43-mxo.zip]]
+
+**Recent Changes**
+{{changes>ns = mxo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mxo|Ethnologue data]]
+
